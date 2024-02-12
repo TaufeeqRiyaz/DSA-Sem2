@@ -3,6 +3,7 @@
 
 struct Student{
     char name[20];
+    char grade;
     int roll;
     float marks;
 };
